@@ -14,3 +14,5 @@
 ## Pare e remova o contêiner.
 ## Liste todos os containers.
 ## O script deve ser adicionado no diretório 01-primeiro-container dentro do repositório:
+
+![docker-folder](https://github.com/user-attachments/assets/a8283ff8-1ba3-465d-a6d2-f4551d2efa77)
