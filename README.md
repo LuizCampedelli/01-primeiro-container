@@ -16,3 +16,32 @@
 ## O script deve ser adicionado no diretório 01-primeiro-container dentro do repositório:
 
 ![docker-folder](https://github.com/user-attachments/assets/a8283ff8-1ba3-465d-a6d2-f4551d2efa77)
+
+## Como usar:
+
+- Clone o repositório:
+
+```bash
+  git clone git@github.com:LuizCampedelli/01-primeiro-container.git
+```
+
+- Navegue até a pasta 01-primeiro-container:
+
+```bash
+  $ cd 01-primeiro-container
+```
+- Dentro da pasta, rode o comando:
+
+```bash
+  $ chomd +x run_container.sh
+```
+- Abra o script:
+
+```bash
+  $ ./run_container.sh
+```
+
+# o container Docker, será iniciado, o servidor nginx poderá ser acessado
+no http://localhost:8080/
+
+## Após 30 segundos, através dos comandos no passo 4, o container é removido.
