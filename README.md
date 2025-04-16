@@ -41,7 +41,8 @@
   $ ./run_container.sh
 ```
 
-# o container Docker, será iniciado, o servidor nginx poderá ser acessado
-no http://localhost:8080/
+# O container Docker, será iniciado, o servidor nginx poderá ser acessado:
+
+[ http://localhost:8080/ ](localhost)
 
 ## Após 30 segundos, através dos comandos no passo 4, o container é removido.
